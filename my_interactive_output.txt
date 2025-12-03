@@ -32,7 +32,7 @@ Created playlist: progressive_house
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Silence"
   → Estimated beats: 840  → Compression precision factor: 0.6
 Added 'Silence' to playlist 'progressive_house'
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -47,7 +47,7 @@ Added 'For An Angel' to playlist 'progressive_house'
 Added '9PM (Till I Come)' to playlist 'progressive_house'
 [INFO] Playlist loaded: progressive_house (3 tracks)
 
---- Processing: Silence ---
+-- Processing: Silence --
 [System] Loading track 'Silence' to controller...
 [MP3Track::load] Loading MP3: "Silence" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -72,7 +72,6 @@ Added '9PM (Till I Come)' to playlist 'progressive_house'
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Silence"
   → Estimated beats: 840  → Compression precision factor: 0.6
-[Sync BPM] Cannot sync - one of the decks is empty.
 [Load Complete] 'Silence' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -82,9 +81,9 @@ Deck 1: [EMPTY]
 Active Deck: 0
 ===================
 
---- Processing: For An Angel ---
+-- Processing: For An Angel --
 [System] Loading track 'For An Angel' to controller...
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -100,7 +99,7 @@ Active Deck: 0
 
 === Loading Track to Deck ===
 [Deck Switch] Target deck: 1
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -114,7 +113,7 @@ Deck 1: For An Angel
 Active Deck: 1
 ===================
 
---- Processing: 9PM (Till I Come) ---
+-- Processing: 9PM (Till I Come) --
 [System] Loading track '9PM (Till I Come)' to controller...
 [MP3Track::load] Loading MP3: "9PM (Till I Come)" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -169,7 +168,7 @@ Created playlist: test_playlist
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Silence"
   → Estimated beats: 840  → Compression precision factor: 0.6
 Added 'Silence' to playlist 'test_playlist'
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -189,7 +188,7 @@ Added '9PM (Till I Come)' to playlist 'test_playlist'
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Silence"
   → Estimated beats: 840  → Compression precision factor: 0.6
 Added 'Silence' to playlist 'test_playlist'
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -197,7 +196,7 @@ Added 'Silence' to playlist 'test_playlist'
 Added 'For An Angel' to playlist 'test_playlist'
 [INFO] Playlist loaded: test_playlist (5 tracks)
 
---- Processing: Silence ---
+-- Processing: Silence --
 [System] Loading track 'Silence' to controller...
 
 === Cache Status ===
@@ -226,7 +225,7 @@ Deck 1: Silence
 Active Deck: 1
 ===================
 
---- Processing: For An Angel ---
+-- Processing: For An Angel --
 [System] Loading track 'For An Angel' to controller...
 
 === Cache Status ===
@@ -239,7 +238,7 @@ Active Deck: 1
 
 === Loading Track to Deck ===
 [Deck Switch] Target deck: 0
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -253,7 +252,7 @@ Deck 1: Silence
 Active Deck: 0
 ===================
 
---- Processing: 9PM (Till I Come) ---
+-- Processing: 9PM (Till I Come) --
 [System] Loading track '9PM (Till I Come)' to controller...
 
 === Cache Status ===
@@ -281,7 +280,7 @@ Deck 1: 9PM (Till I Come)
 Active Deck: 1
 ===================
 
---- Processing: Silence ---
+-- Processing: Silence --
 [System] Loading track 'Silence' to controller...
 
 === Cache Status ===
@@ -310,7 +309,7 @@ Deck 1: 9PM (Till I Come)
 Active Deck: 0
 ===================
 
---- Processing: For An Angel ---
+-- Processing: For An Angel --
 [System] Loading track 'For An Angel' to controller...
 
 === Cache Status ===
@@ -323,7 +322,7 @@ Active Deck: 0
 
 === Loading Track to Deck ===
 [Deck Switch] Target deck: 1
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -351,7 +350,7 @@ Errors: 0
 [System] Loading playlist: trance_classics
 [INFO] Loading playlist: trance_classics
 Created playlist: trance_classics
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -366,7 +365,7 @@ Added 'For An Angel' to playlist 'trance_classics'
 Added 'Silence' to playlist 'trance_classics'
 [INFO] Playlist loaded: trance_classics (2 tracks)
 
---- Processing: For An Angel ---
+-- Processing: For An Angel --
 [System] Loading track 'For An Angel' to controller...
 
 === Cache Status ===
@@ -379,7 +378,7 @@ Added 'Silence' to playlist 'trance_classics'
 
 === Loading Track to Deck ===
 [Deck Switch] Target deck: 0
-[WAVTrack::load] Loading WAV: "For An Angel" at 96000Hz/24bit (uncompressed)...
+[WAVTrack::load] Loading WAV: "For An Angel"at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 241920000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "For An Angel"
@@ -393,7 +392,7 @@ Deck 1: For An Angel
 Active Deck: 0
 ===================
 
---- Processing: Silence ---
+-- Processing: Silence --
 [System] Loading track 'Silence' to controller...
 
 === Cache Status ===
@@ -432,8 +431,8 @@ Deck B loads: 5
 Transitions: 10
 Errors: 0
 === Session Complete ===
-Session cancelled by user or all playlists played.
+
+All playlists played. Ending session.
 ============= INTERACTIVE SESSION ENDED =============
 
 Shutting down DJ Session System: Interactive Session
-[MixingEngineService] Cleaning up decks...

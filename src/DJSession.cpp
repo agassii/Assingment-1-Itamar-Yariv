@@ -93,7 +93,7 @@ int DJSession::load_track_to_controller(const std::string& track_name) {
         stats.cache_misses++;
     }
 
-       
+      controller_service.displayCacheStatus();
 
     
 
@@ -128,7 +128,8 @@ bool DJSession::load_track_to_mixer_deck(const std::string& track_title) {
     } else if (deck_index == 1) {
         stats.deck_loads_b++;
         stats.transitions++;
-    }          
+    }  
+    mixing_service.displayDeckStatus();        
     return true;
 }
 
@@ -160,8 +161,7 @@ void DJSession::simulate_dj_performance() {
     std::cout << "Cache Capacity: " << session_config.controller_cache_size << " slots (LRU policy)" << std::endl;
     std::cout << "\n--- Processing Tracks ---" << std::endl;
 
-    std::cout << "TODO: Implement the DJ performance simulation workflow here." << std::endl;
-    // Your implementation here
+   
 bool running = true;
 
     while(running){
@@ -190,26 +190,22 @@ bool running = true;
             continue;
          }         
          const std::vector<std::string>& titles = track_titles;
-          for (const std::string& title : titles) {
+
+          for (int i = (int)titles.size() - 1; i >= 0; --i) {
+                const std::string& title = titles[i];
                 std::cout << "\n-- Processing: " << title << " --" << std::endl;
 
                 stats.tracks_processed++;
           
           load_track_to_controller(title);
+          
         bool deck_load = load_track_to_mixer_deck(title);
         if (!deck_load){
             continue;
         }
         }
         print_session_summary();
-        stats.tracks_processed  = 0;
-            stats.cache_hits        = 0;
-            stats.cache_misses      = 0;
-            stats.cache_evictions   = 0;
-            stats.deck_loads_a      = 0;
-            stats.deck_loads_b      = 0;
-            stats.transitions       = 0;
-            stats.errors            = 0;
+        
 }
 if (play_all) {
             std::cout << "\nAll playlists played. Ending session." << std::endl;
@@ -218,6 +214,14 @@ if (play_all) {
     
 
 }
+            stats.tracks_processed  = 0;
+            stats.cache_hits        = 0;
+            stats.cache_misses      = 0;
+            stats.cache_evictions   = 0;
+            stats.deck_loads_a      = 0;
+            stats.deck_loads_b      = 0;
+            stats.transitions       = 0;
+            stats.errors            = 0;
 }
 
 

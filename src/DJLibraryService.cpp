@@ -25,7 +25,9 @@ void DJLibraryService::buildLibrary(const std::vector<SessionConfig::TrackInfo> 
             {
                 library.push_back(track);
             }
-            std::cout << "MP3Track created: " << cfg.extra_param1 << " kbps" << std::endl;
+        #ifdef DEBUG    
+         std::cout << "MP3Track created: " << cfg.extra_param1 << " kbps" << std::endl;
+         #endif
         }
         else if (cfg.type == "WAV")
         {
@@ -35,8 +37,9 @@ void DJLibraryService::buildLibrary(const std::vector<SessionConfig::TrackInfo> 
             {
                 library.push_back(track);
             }
-
+            #ifdef DEBUG
             std::cout << "WAVTrack created: " << cfg.extra_param1 << "Hz/" << cfg.extra_param2 << "bit" << std::endl;
+            #endif
         }
     }
 
@@ -91,7 +94,7 @@ void DJLibraryService::loadPlaylistFromIndices(const std::string &playlist_name,
 {
     // Your implementation here
     // For now, add a placeholder to fix the linker error
-    std::cout << "[INFO] Loading playlist:" << playlist_name << std::endl;
+    std::cout << "[INFO] Loading playlist: " << playlist_name << std::endl;
     playlist = Playlist(playlist_name);
     int added_tracks = 0;
     for (int idx : track_indices)

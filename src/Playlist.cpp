@@ -71,9 +71,10 @@ void Playlist::add_track(AudioTrack *track)
     new_node->next = head;
     head = new_node;
     track_count++;
-
+    #ifdef DEBUG
     std::cout << "Added '" << track->get_title() << "' to playlist '"
               << playlist_name << "'" << std::endl;
+    #endif
 }
 
 void Playlist::remove_track(const std::string &title)
