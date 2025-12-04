@@ -26,6 +26,7 @@ MixingEngineService::~MixingEngineService() {
         decks[i] = nullptr;
     }
    }
+    std::cout << "[MixingEngineService] Cleaning up decks..." << std::endl;
    }
 
    MixingEngineService:: MixingEngineService(const  MixingEngineService& other) :decks(), active_deck(1), auto_sync(false), bpm_tolerance(0){

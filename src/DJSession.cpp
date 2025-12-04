@@ -193,7 +193,7 @@ bool running = true;
 
           for (int i = (int)titles.size() - 1; i >= 0; --i) {
                 const std::string& title = titles[i];
-                std::cout << "\n-- Processing: " << title << " --" << std::endl;
+                std::cout << "\n--- Processing: " << title << " ---" << std::endl;
 
                 stats.tracks_processed++;
           
@@ -204,11 +204,10 @@ bool running = true;
             continue;
         }
         }
-        print_session_summary();
-        
+        print_session_summary();       
 }
 if (play_all) {
-            std::cout << "\nAll playlists played. Ending session." << std::endl;
+            std::cout << "Session cancelled by user or all playlists played." << std::endl;
             running = false;
         }
     
@@ -231,7 +230,7 @@ if (play_all) {
  * @return: true if configuration loaded successfully; false on error
  */
 bool DJSession::load_configuration() {
-    const std::string config_path = "bin/dj_config.txt";
+    const std::string config_path = "bin/dj_config_2.txt";
     
     std::cout << "Loading configuration from: " << config_path << std::endl;
     

@@ -11,7 +11,7 @@ WAVTrack::WAVTrack(const std::string& title, const std::vector<std::string>& art
 // ========== TODO: STUDENTS IMPLEMENT THESE VIRTUAL FUNCTIONS ==========
 
 void WAVTrack::load() {
-    std::cout <<"[WAVTrack::load] Loading WAV: \"" << title << "\"at "<< sample_rate << "Hz/" << bit_depth << "bit (uncompressed)..."<< std::endl; 
+    std::cout <<"[WAVTrack::load] Loading WAV: \"" << title << "\" at "<< sample_rate << "Hz/" << bit_depth << "bit (uncompressed)..."<< std::endl; 
 
     long long size = static_cast<long long>(duration_seconds)* sample_rate* (bit_depth / 8)* 2;
     std::cout << "  → Estimated file size: " << size << " bytes" << std::endl;
