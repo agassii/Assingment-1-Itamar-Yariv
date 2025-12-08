@@ -138,41 +138,41 @@ Created playlist: armin_van_buuren_ASOT_1250
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Right Back"
-  → Estimated beats: 779.167  → Compression precision factor: 0.8
+  → Estimated beats: 779  → Compression precision factor: 0.8
 Added 'Right Back' to playlist 'armin_van_buuren_ASOT_1250'
 [WAVTrack::load] Loading WAV: "Concrete Angel" at 44100Hz/24bit (uncompressed)...
   → Estimated file size: 80967600 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Concrete Angel"
-  → Estimated beats: 622.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
 Added 'Concrete Angel' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Saving Light" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Saving Light"
-  → Estimated beats: 634.833  → Compression precision factor: 1
+  → Estimated beats: 634  → Compression precision factor: 1
 Added 'Saving Light' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "No One On Earth" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "No One On Earth"
-  → Estimated beats: 605.25  → Compression precision factor: 0.8
+  → Estimated beats: 605  → Compression precision factor: 0.8
 Added 'No One On Earth' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Lighter Than Air" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lighter Than Air"
-  → Estimated beats: 582.4  → Compression precision factor: 0.6
+  → Estimated beats: 582  → Compression precision factor: 0.6
 Added 'Lighter Than Air' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Tuvan" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Tuvan"
-  → Estimated beats: 597.917  → Compression precision factor: 0.6
+  → Estimated beats: 597  → Compression precision factor: 0.6
 Added 'Tuvan' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Anahera" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -185,70 +185,70 @@ Added 'Anahera' to playlist 'armin_van_buuren_ASOT_1250'
   → Estimated file size: 84864000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "U"
-  → Estimated beats: 504.617  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
 Added 'U' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Southern Sun" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Southern Sun"
-  → Estimated beats: 569.683  → Compression precision factor: 0.6
+  → Estimated beats: 569  → Compression precision factor: 0.6
 Added 'Southern Sun' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Take This" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Take This"
-  → Estimated beats: 625.5  → Compression precision factor: 0.6
+  → Estimated beats: 625  → Compression precision factor: 0.6
 Added 'Take This' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Intense" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Intense"
-  → Estimated beats: 714.667  → Compression precision factor: 1
+  → Estimated beats: 714  → Compression precision factor: 1
 Added 'Intense' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Destination (ASOT 2024 Anthem)" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Destination (ASOT 2024 Anthem)"
-  → Estimated beats: 858.533  → Compression precision factor: 1
+  → Estimated beats: 858  → Compression precision factor: 1
 Added 'Destination (ASOT 2024 Anthem)' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "What Took You So Long" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "What Took You So Long"
-  → Estimated beats: 589.583  → Compression precision factor: 1
+  → Estimated beats: 589  → Compression precision factor: 1
 Added 'What Took You So Long' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Just As You Are" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just As You Are"
-  → Estimated beats: 470.283  → Compression precision factor: 1
+  → Estimated beats: 470  → Compression precision factor: 1
 Added 'Just As You Are' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "The Air I Breathe" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "The Air I Breathe"
-  → Estimated beats: 694.4  → Compression precision factor: 1
+  → Estimated beats: 694  → Compression precision factor: 1
 Added 'The Air I Breathe' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "For All Time" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "For All Time"
-  → Estimated beats: 933.217  → Compression precision factor: 0.6
+  → Estimated beats: 933  → Compression precision factor: 0.6
 Added 'For All Time' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "We Control The Sunlight" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We Control The Sunlight"
-  → Estimated beats: 853.05  → Compression precision factor: 0.6
+  → Estimated beats: 853  → Compression precision factor: 0.6
 Added 'We Control The Sunlight' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Blueprint" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -262,21 +262,21 @@ Added 'Blueprint' to playlist 'armin_van_buuren_ASOT_1250'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Homeward"
-  → Estimated beats: 734.4  → Compression precision factor: 0.6
+  → Estimated beats: 734  → Compression precision factor: 0.6
 Added 'Homeward' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "We're Not Going Home" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We're Not Going Home"
-  → Estimated beats: 635.8  → Compression precision factor: 0.6
+  → Estimated beats: 635  → Compression precision factor: 0.6
 Added 'We're Not Going Home' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Lemme Take You" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lemme Take You"
-  → Estimated beats: 821.467  → Compression precision factor: 1
+  → Estimated beats: 821  → Compression precision factor: 1
 Added 'Lemme Take You' to playlist 'armin_van_buuren_ASOT_1250'
 [WAVTrack::load] Loading WAV: "Bloodstream" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 68352000 bytes
@@ -296,42 +296,42 @@ Added 'Rock Your Body Rock' to playlist 'armin_van_buuren_ASOT_1250'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voema"
-  → Estimated beats: 574.75  → Compression precision factor: 0.6
+  → Estimated beats: 574  → Compression precision factor: 0.6
 Added 'Voema' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Not Coming Down" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Not Coming Down"
-  → Estimated beats: 699.6  → Compression precision factor: 0.6
+  → Estimated beats: 699  → Compression precision factor: 0.6
 Added 'Not Coming Down' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Mo Chara" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Mo Chara"
-  → Estimated beats: 660.4  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 Added 'Mo Chara' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Brain Box" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Brain Box"
-  → Estimated beats: 747.5  → Compression precision factor: 0.6
+  → Estimated beats: 747  → Compression precision factor: 0.6
 Added 'Brain Box' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Sweet Sorrow" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Sorrow"
-  → Estimated beats: 707.117  → Compression precision factor: 0.8
+  → Estimated beats: 707  → Compression precision factor: 0.8
 Added 'Sweet Sorrow' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Ligaya" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Ligaya"
-  → Estimated beats: 660.1  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 Added 'Ligaya' to playlist 'armin_van_buuren_ASOT_1250'
 [WAVTrack::load] Loading WAV: "Drum's A Weapon" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 46080000 bytes
@@ -348,7 +348,7 @@ Added 'Drum's A Weapon' to playlist 'armin_van_buuren_ASOT_1250'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Right Back"
-  → Estimated beats: 779.167  → Compression precision factor: 0.8
+  → Estimated beats: 779  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 1/4 slots used
@@ -366,7 +366,7 @@ Added 'Drum's A Weapon' to playlist 'armin_van_buuren_ASOT_1250'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Right Back"
-  → Estimated beats: 779.167  → Compression precision factor: 0.8
+  → Estimated beats: 779  → Compression precision factor: 0.8
 [Load Complete] 'Right Back' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -382,7 +382,7 @@ Active Deck: 0
   → Estimated file size: 80967600 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Concrete Angel"
-  → Estimated beats: 622.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 2/4 slots used
@@ -399,7 +399,7 @@ Active Deck: 0
   → Estimated file size: 80967600 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Concrete Angel"
-  → Estimated beats: 622.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'Concrete Angel' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -416,7 +416,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Saving Light"
-  → Estimated beats: 634.833  → Compression precision factor: 1
+  → Estimated beats: 634  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 3/4 slots used
@@ -434,7 +434,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Saving Light"
-  → Estimated beats: 634.833  → Compression precision factor: 1
+  → Estimated beats: 634  → Compression precision factor: 1
 [Load Complete] 'Saving Light' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -451,7 +451,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "No One On Earth"
-  → Estimated beats: 605.25  → Compression precision factor: 0.8
+  → Estimated beats: 605  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -469,7 +469,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "No One On Earth"
-  → Estimated beats: 605.25  → Compression precision factor: 0.8
+  → Estimated beats: 605  → Compression precision factor: 0.8
 [Load Complete] 'No One On Earth' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -486,7 +486,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lighter Than Air"
-  → Estimated beats: 582.4  → Compression precision factor: 0.6
+  → Estimated beats: 582  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -504,7 +504,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lighter Than Air"
-  → Estimated beats: 582.4  → Compression precision factor: 0.6
+  → Estimated beats: 582  → Compression precision factor: 0.6
 [Load Complete] 'Lighter Than Air' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -521,7 +521,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Tuvan"
-  → Estimated beats: 597.917  → Compression precision factor: 0.6
+  → Estimated beats: 597  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -539,7 +539,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Tuvan"
-  → Estimated beats: 597.917  → Compression precision factor: 0.6
+  → Estimated beats: 597  → Compression precision factor: 0.6
 [Load Complete] 'Tuvan' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -591,7 +591,7 @@ Active Deck: 0
   → Estimated file size: 84864000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "U"
-  → Estimated beats: 504.617  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -608,7 +608,7 @@ Active Deck: 0
   → Estimated file size: 84864000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "U"
-  → Estimated beats: 504.617  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'U' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -625,7 +625,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Southern Sun"
-  → Estimated beats: 569.683  → Compression precision factor: 0.6
+  → Estimated beats: 569  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -643,7 +643,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Southern Sun"
-  → Estimated beats: 569.683  → Compression precision factor: 0.6
+  → Estimated beats: 569  → Compression precision factor: 0.6
 [Load Complete] 'Southern Sun' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -660,7 +660,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Take This"
-  → Estimated beats: 625.5  → Compression precision factor: 0.6
+  → Estimated beats: 625  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -678,7 +678,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Take This"
-  → Estimated beats: 625.5  → Compression precision factor: 0.6
+  → Estimated beats: 625  → Compression precision factor: 0.6
 [Load Complete] 'Take This' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -695,7 +695,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Intense"
-  → Estimated beats: 714.667  → Compression precision factor: 1
+  → Estimated beats: 714  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -713,7 +713,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Intense"
-  → Estimated beats: 714.667  → Compression precision factor: 1
+  → Estimated beats: 714  → Compression precision factor: 1
 [Load Complete] 'Intense' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -730,7 +730,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Destination (ASOT 2024 Anthem)"
-  → Estimated beats: 858.533  → Compression precision factor: 1
+  → Estimated beats: 858  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -748,7 +748,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Destination (ASOT 2024 Anthem)"
-  → Estimated beats: 858.533  → Compression precision factor: 1
+  → Estimated beats: 858  → Compression precision factor: 1
 [Load Complete] 'Destination (ASOT 2024 Anthem)' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -765,7 +765,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "What Took You So Long"
-  → Estimated beats: 589.583  → Compression precision factor: 1
+  → Estimated beats: 589  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -783,7 +783,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "What Took You So Long"
-  → Estimated beats: 589.583  → Compression precision factor: 1
+  → Estimated beats: 589  → Compression precision factor: 1
 [Load Complete] 'What Took You So Long' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -800,7 +800,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just As You Are"
-  → Estimated beats: 470.283  → Compression precision factor: 1
+  → Estimated beats: 470  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -818,7 +818,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just As You Are"
-  → Estimated beats: 470.283  → Compression precision factor: 1
+  → Estimated beats: 470  → Compression precision factor: 1
 [Load Complete] 'Just As You Are' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -835,7 +835,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "The Air I Breathe"
-  → Estimated beats: 694.4  → Compression precision factor: 1
+  → Estimated beats: 694  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -853,7 +853,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "The Air I Breathe"
-  → Estimated beats: 694.4  → Compression precision factor: 1
+  → Estimated beats: 694  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 124 to 131
 [Load Complete] 'The Air I Breathe' is now loaded on deck 0
 [Active Deck] Switched to deck 0
@@ -871,7 +871,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "For All Time"
-  → Estimated beats: 933.217  → Compression precision factor: 0.6
+  → Estimated beats: 933  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -889,7 +889,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "For All Time"
-  → Estimated beats: 933.217  → Compression precision factor: 0.6
+  → Estimated beats: 933  → Compression precision factor: 0.6
 [Load Complete] 'For All Time' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -906,7 +906,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We Control The Sunlight"
-  → Estimated beats: 853.05  → Compression precision factor: 0.6
+  → Estimated beats: 853  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -924,7 +924,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We Control The Sunlight"
-  → Estimated beats: 853.05  → Compression precision factor: 0.6
+  → Estimated beats: 853  → Compression precision factor: 0.6
 [Load Complete] 'We Control The Sunlight' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -976,7 +976,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Homeward"
-  → Estimated beats: 734.4  → Compression precision factor: 0.6
+  → Estimated beats: 734  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -994,7 +994,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Homeward"
-  → Estimated beats: 734.4  → Compression precision factor: 0.6
+  → Estimated beats: 734  → Compression precision factor: 0.6
 [Load Complete] 'Homeward' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1011,7 +1011,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We're Not Going Home"
-  → Estimated beats: 635.8  → Compression precision factor: 0.6
+  → Estimated beats: 635  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1029,7 +1029,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "We're Not Going Home"
-  → Estimated beats: 635.8  → Compression precision factor: 0.6
+  → Estimated beats: 635  → Compression precision factor: 0.6
 [Load Complete] 'We're Not Going Home' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1046,7 +1046,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lemme Take You"
-  → Estimated beats: 821.467  → Compression precision factor: 1
+  → Estimated beats: 821  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1064,7 +1064,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lemme Take You"
-  → Estimated beats: 821.467  → Compression precision factor: 1
+  → Estimated beats: 821  → Compression precision factor: 1
 [Load Complete] 'Lemme Take You' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1149,7 +1149,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voema"
-  → Estimated beats: 574.75  → Compression precision factor: 0.6
+  → Estimated beats: 574  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1167,7 +1167,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voema"
-  → Estimated beats: 574.75  → Compression precision factor: 0.6
+  → Estimated beats: 574  → Compression precision factor: 0.6
 [Load Complete] 'Voema' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1184,7 +1184,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Not Coming Down"
-  → Estimated beats: 699.6  → Compression precision factor: 0.6
+  → Estimated beats: 699  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1202,7 +1202,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Not Coming Down"
-  → Estimated beats: 699.6  → Compression precision factor: 0.6
+  → Estimated beats: 699  → Compression precision factor: 0.6
 [Load Complete] 'Not Coming Down' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1219,7 +1219,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Mo Chara"
-  → Estimated beats: 660.4  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1237,7 +1237,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Mo Chara"
-  → Estimated beats: 660.4  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 [Load Complete] 'Mo Chara' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1254,7 +1254,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Brain Box"
-  → Estimated beats: 747.5  → Compression precision factor: 0.6
+  → Estimated beats: 747  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1272,7 +1272,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Brain Box"
-  → Estimated beats: 747.5  → Compression precision factor: 0.6
+  → Estimated beats: 747  → Compression precision factor: 0.6
 [Load Complete] 'Brain Box' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1289,7 +1289,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Sorrow"
-  → Estimated beats: 707.117  → Compression precision factor: 0.8
+  → Estimated beats: 707  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1307,7 +1307,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Sorrow"
-  → Estimated beats: 707.117  → Compression precision factor: 0.8
+  → Estimated beats: 707  → Compression precision factor: 0.8
 [Load Complete] 'Sweet Sorrow' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1324,7 +1324,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Ligaya"
-  → Estimated beats: 660.1  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1342,7 +1342,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Ligaya"
-  → Estimated beats: 660.1  → Compression precision factor: 0.8
+  → Estimated beats: 660  → Compression precision factor: 0.8
 [Load Complete] 'Ligaya' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1404,39 +1404,39 @@ Created playlist: lost_frequencies_tomorrowland_2025_w1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Thunderclouds (Lost Frequencies 2025 Intro)"
-  → Estimated beats: 662.567  → Compression precision factor: 0.8
+  → Estimated beats: 662  → Compression precision factor: 0.8
 Added 'Black Thunderclouds (Lost Frequencies 2025 Intro)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "ID1" at 44100Hz/16bit (uncompressed)...
   → Estimated file size: 48686400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID1"
-  → Estimated beats: 584.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
 Added 'ID1' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Sun Is Shining" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sun Is Shining"
-  → Estimated beats: 533.4  → Compression precision factor: 0.8
+  → Estimated beats: 533  → Compression precision factor: 0.8
 Added 'Sun Is Shining' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "Are You With Me" at 44100Hz/24bit (uncompressed)...
   → Estimated file size: 49744800 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Are You With Me"
-  → Estimated beats: 385.4  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
 Added 'Are You With Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Worry About Me" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Worry About Me"
-  → Estimated beats: 576.333  → Compression precision factor: 0.8
+  → Estimated beats: 576  → Compression precision factor: 0.8
 Added 'Worry About Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "ID2" at 44100Hz/16bit (uncompressed)...
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "Love Is The Only Thing" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 73152000 bytes
@@ -1448,14 +1448,14 @@ Added 'Love Is The Only Thing' to playlist 'lost_frequencies_tomorrowland_2025_w
   → Estimated file size: 47232000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kick The Nation"
-  → Estimated beats: 541.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
 Added 'Kick The Nation' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Summer Skies (I Love To Cry)" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Summer Skies (I Love To Cry)"
-  → Estimated beats: 781.05  → Compression precision factor: 0.8
+  → Estimated beats: 781  → Compression precision factor: 0.8
 Added 'Summer Skies (I Love To Cry)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "Kesariya" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 38400000 bytes
@@ -1467,53 +1467,53 @@ Added 'Kesariya' to playlist 'lost_frequencies_tomorrowland_2025_w1'
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Head Down" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Head Down"
-  → Estimated beats: 711.9  → Compression precision factor: 0.8
+  → Estimated beats: 711  → Compression precision factor: 0.8
 Added 'Head Down' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 85632000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914.3  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 85632000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914.3  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Just Wanna Know" at 192 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just Wanna Know"
-  → Estimated beats: 944.3  → Compression precision factor: 0.6
+  → Estimated beats: 944  → Compression precision factor: 0.6
 Added 'Just Wanna Know' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "Let Me Blow Ya Mind (Netsky Bootleg)" at 48000Hz/16bit (uncompressed)...
   → Estimated file size: 83520000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Let Me Blow Ya Mind (Netsky Bootleg)"
-  → Estimated beats: 935.25  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
 Added 'Let Me Blow Ya Mind (Netsky Bootleg)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410.267  → Compression precision factor: 1
+  → Estimated beats: 410  → Compression precision factor: 1
 Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410.267  → Compression precision factor: 1
+  → Estimated beats: 410  → Compression precision factor: 1
 Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Voodoo People" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -1527,13 +1527,13 @@ Added 'Voodoo People' to playlist 'lost_frequencies_tomorrowland_2025_w1'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Freestyler (Rock The Microphone)"
-  → Estimated beats: 512.9  → Compression precision factor: 0.6
+  → Estimated beats: 512  → Compression precision factor: 0.6
 Added 'Freestyler (Rock The Microphone)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [WAVTrack::load] Loading WAV: "High Hopes" at 96000Hz/24bit (uncompressed)...
   → Estimated file size: 139392000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "High Hopes"
-  → Estimated beats: 500.133  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
 Added 'High Hopes' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Reality" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
@@ -1547,42 +1547,42 @@ Added 'Reality' to playlist 'lost_frequencies_tomorrowland_2025_w1'
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534.333  → Compression precision factor: 0.8
+  → Estimated beats: 534  → Compression precision factor: 0.8
 Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Black Friday (Pretty Like The Sun)" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534.333  → Compression precision factor: 0.8
+  → Estimated beats: 534  → Compression precision factor: 0.8
 Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Innerbloom (RUMPUS Edit)" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Innerbloom (RUMPUS Edit)"
-  → Estimated beats: 518.65  → Compression precision factor: 1
+  → Estimated beats: 518  → Compression precision factor: 1
 Added 'Innerbloom (RUMPUS Edit)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Timeless" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Timeless"
-  → Estimated beats: 573.75  → Compression precision factor: 0.8
+  → Estimated beats: 573  → Compression precision factor: 0.8
 Added 'Timeless' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Sweet Disposition (A Moment A Love)" at 320 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Disposition (A Moment A Love)"
-  → Estimated beats: 883.55  → Compression precision factor: 1
+  → Estimated beats: 883  → Compression precision factor: 1
 Added 'Sweet Disposition (A Moment A Love)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Dance In The Sunlight (Deluxe Version)" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Dance In The Sunlight (Deluxe Version)"
-  → Estimated beats: 748.183  → Compression precision factor: 0.8
+  → Estimated beats: 748  → Compression precision factor: 0.8
 Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [INFO] Playlist loaded: lost_frequencies_tomorrowland_2025_w1 (28 tracks)
 
@@ -1593,7 +1593,7 @@ Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tom
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Thunderclouds (Lost Frequencies 2025 Intro)"
-  → Estimated beats: 662.567  → Compression precision factor: 0.8
+  → Estimated beats: 662  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1611,7 +1611,7 @@ Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tom
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Thunderclouds (Lost Frequencies 2025 Intro)"
-  → Estimated beats: 662.567  → Compression precision factor: 0.8
+  → Estimated beats: 662  → Compression precision factor: 0.8
 [Load Complete] 'Black Thunderclouds (Lost Frequencies 2025 Intro)' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1627,7 +1627,7 @@ Active Deck: 0
   → Estimated file size: 48686400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID1"
-  → Estimated beats: 584.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1644,7 +1644,7 @@ Active Deck: 0
   → Estimated file size: 48686400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID1"
-  → Estimated beats: 584.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'ID1' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1661,7 +1661,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sun Is Shining"
-  → Estimated beats: 533.4  → Compression precision factor: 0.8
+  → Estimated beats: 533  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1679,7 +1679,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sun Is Shining"
-  → Estimated beats: 533.4  → Compression precision factor: 0.8
+  → Estimated beats: 533  → Compression precision factor: 0.8
 [Load Complete] 'Sun Is Shining' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1695,7 +1695,7 @@ Active Deck: 0
   → Estimated file size: 49744800 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Are You With Me"
-  → Estimated beats: 385.4  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1712,7 +1712,7 @@ Active Deck: 0
   → Estimated file size: 49744800 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Are You With Me"
-  → Estimated beats: 385.4  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'Are You With Me' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1729,7 +1729,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Worry About Me"
-  → Estimated beats: 576.333  → Compression precision factor: 0.8
+  → Estimated beats: 576  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1747,7 +1747,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Worry About Me"
-  → Estimated beats: 576.333  → Compression precision factor: 0.8
+  → Estimated beats: 576  → Compression precision factor: 0.8
 [Load Complete] 'Worry About Me' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1763,7 +1763,7 @@ Active Deck: 0
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1780,7 +1780,7 @@ Active Deck: 0
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'ID2' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1829,7 +1829,7 @@ Active Deck: 0
   → Estimated file size: 47232000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kick The Nation"
-  → Estimated beats: 541.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1846,7 +1846,7 @@ Active Deck: 0
   → Estimated file size: 47232000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kick The Nation"
-  → Estimated beats: 541.2  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'Kick The Nation' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1863,7 +1863,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Summer Skies (I Love To Cry)"
-  → Estimated beats: 781.05  → Compression precision factor: 0.8
+  → Estimated beats: 781  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1881,7 +1881,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Summer Skies (I Love To Cry)"
-  → Estimated beats: 781.05  → Compression precision factor: 0.8
+  → Estimated beats: 781  → Compression precision factor: 0.8
 [Load Complete] 'Summer Skies (I Love To Cry)' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1930,7 +1930,7 @@ Active Deck: 1
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1947,7 +1947,7 @@ Active Deck: 1
   → Estimated file size: 54860400 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679.017  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'ID2' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -1964,7 +1964,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Head Down"
-  → Estimated beats: 711.9  → Compression precision factor: 0.8
+  → Estimated beats: 711  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -1982,7 +1982,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Head Down"
-  → Estimated beats: 711.9  → Compression precision factor: 0.8
+  → Estimated beats: 711  → Compression precision factor: 0.8
 [Load Complete] 'Head Down' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -1998,7 +1998,7 @@ Active Deck: 1
   → Estimated file size: 85632000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914.3  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2015,7 +2015,7 @@ Active Deck: 1
   → Estimated file size: 85632000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914.3  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'The Feeling' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -2043,7 +2043,7 @@ Active Deck: 0
   → Estimated file size: 85632000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914.3  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'The Feeling' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2060,7 +2060,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just Wanna Know"
-  → Estimated beats: 944.3  → Compression precision factor: 0.6
+  → Estimated beats: 944  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2078,7 +2078,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just Wanna Know"
-  → Estimated beats: 944.3  → Compression precision factor: 0.6
+  → Estimated beats: 944  → Compression precision factor: 0.6
 [Load Complete] 'Just Wanna Know' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -2094,7 +2094,7 @@ Active Deck: 0
   → Estimated file size: 83520000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Let Me Blow Ya Mind (Netsky Bootleg)"
-  → Estimated beats: 935.25  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2111,7 +2111,7 @@ Active Deck: 0
   → Estimated file size: 83520000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Let Me Blow Ya Mind (Netsky Bootleg)"
-  → Estimated beats: 935.25  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'Let Me Blow Ya Mind (Netsky Bootleg)' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2128,7 +2128,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410.267  → Compression precision factor: 1
+  → Estimated beats: 410  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2146,7 +2146,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410.267  → Compression precision factor: 1
+  → Estimated beats: 410  → Compression precision factor: 1
 [Load Complete] 'Where Are You Now' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -2175,7 +2175,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410.267  → Compression precision factor: 1
+  → Estimated beats: 410  → Compression precision factor: 1
 [Load Complete] 'Where Are You Now' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2228,7 +2228,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Freestyler (Rock The Microphone)"
-  → Estimated beats: 512.9  → Compression precision factor: 0.6
+  → Estimated beats: 512  → Compression precision factor: 0.6
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2246,7 +2246,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Freestyler (Rock The Microphone)"
-  → Estimated beats: 512.9  → Compression precision factor: 0.6
+  → Estimated beats: 512  → Compression precision factor: 0.6
 [Load Complete] 'Freestyler (Rock The Microphone)' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2262,7 +2262,7 @@ Active Deck: 1
   → Estimated file size: 139392000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "High Hopes"
-  → Estimated beats: 500.133  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2279,7 +2279,7 @@ Active Deck: 1
   → Estimated file size: 139392000 bytes
   → Fast loading due to uncompressed format.
 [WAVTrack::analyze_beatgrid] Analyzing beat grid for: "High Hopes"
-  → Estimated beats: 500.133  → Precision factor: 1 (uncompressed audio)
+  → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
 [Load Complete] 'High Hopes' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -2331,7 +2331,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534.333  → Compression precision factor: 0.8
+  → Estimated beats: 534  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2349,7 +2349,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534.333  → Compression precision factor: 0.8
+  → Estimated beats: 534  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 140 to 130
 [Load Complete] 'Black Friday (Pretty Like The Sun)' is now loaded on deck 0
 [Active Deck] Switched to deck 0
@@ -2379,7 +2379,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534.333  → Compression precision factor: 0.8
+  → Estimated beats: 534  → Compression precision factor: 0.8
 [Load Complete] 'Black Friday (Pretty Like The Sun)' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2396,7 +2396,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Innerbloom (RUMPUS Edit)"
-  → Estimated beats: 518.65  → Compression precision factor: 1
+  → Estimated beats: 518  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2414,7 +2414,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Innerbloom (RUMPUS Edit)"
-  → Estimated beats: 518.65  → Compression precision factor: 1
+  → Estimated beats: 518  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 123 to 131
 [Load Complete] 'Innerbloom (RUMPUS Edit)' is now loaded on deck 0
 [Active Deck] Switched to deck 0
@@ -2432,7 +2432,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Timeless"
-  → Estimated beats: 573.75  → Compression precision factor: 0.8
+  → Estimated beats: 573  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2450,7 +2450,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Timeless"
-  → Estimated beats: 573.75  → Compression precision factor: 0.8
+  → Estimated beats: 573  → Compression precision factor: 0.8
 [Load Complete] 'Timeless' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 
@@ -2467,7 +2467,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Disposition (A Moment A Love)"
-  → Estimated beats: 883.55  → Compression precision factor: 1
+  → Estimated beats: 883  → Compression precision factor: 1
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2485,7 +2485,7 @@ Active Deck: 1
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Disposition (A Moment A Love)"
-  → Estimated beats: 883.55  → Compression precision factor: 1
+  → Estimated beats: 883  → Compression precision factor: 1
 [Load Complete] 'Sweet Disposition (A Moment A Love)' is now loaded on deck 0
 [Active Deck] Switched to deck 0
 
@@ -2502,7 +2502,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Dance In The Sunlight (Deluxe Version)"
-  → Estimated beats: 748.183  → Compression precision factor: 0.8
+  → Estimated beats: 748  → Compression precision factor: 0.8
 
 === Cache Status ===
 [LRUCache] Status: 4/4 slots used
@@ -2520,7 +2520,7 @@ Active Deck: 0
   → Decoding MP3 frames...
   → Load complete.
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Dance In The Sunlight (Deluxe Version)"
-  → Estimated beats: 748.183  → Compression precision factor: 0.8
+  → Estimated beats: 748  → Compression precision factor: 0.8
 [Load Complete] 'Dance In The Sunlight (Deluxe Version)' is now loaded on deck 1
 [Active Deck] Switched to deck 1
 

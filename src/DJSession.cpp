@@ -230,7 +230,7 @@ if (play_all) {
  * @return: true if configuration loaded successfully; false on error
  */
 bool DJSession::load_configuration() {
-    const std::string config_path = "bin/dj_config_2.txt";
+    const std::string config_path = "bin/dj_config.txt";
     
     std::cout << "Loading configuration from: " << config_path << std::endl;
     
